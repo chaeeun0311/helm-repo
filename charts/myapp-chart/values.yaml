@@ -20,7 +20,7 @@ nginx:
 
 
 ingress:
-  healthCheckPath: /healthz
+  healthCheckPath: /
   host: www.chaeeun.shop
   certificateArn: arn:aws:acm:us-east-2:556683426101:certificate/37ba588a-fddf-4484-9a71-c2f453ede2da 
   group:
