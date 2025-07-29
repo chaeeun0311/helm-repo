@@ -10,7 +10,7 @@ data:
 
     http {
         upstream was {
-            server myapp-svc:5000;
+            server myapp-svc:80;
         }
 
         server {
