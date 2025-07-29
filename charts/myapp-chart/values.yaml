@@ -10,7 +10,7 @@ redis:
 
 app:
   repository: public.ecr.aws/v3g6g4v7/chaeeun0311-lab2
-  tag: app-v1
+  tag: version-NTMU
   replicas: 1
 
 nginx:
