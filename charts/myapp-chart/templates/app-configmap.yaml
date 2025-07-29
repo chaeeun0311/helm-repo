@@ -3,7 +3,7 @@ kind: ConfigMap
 metadata:
   name: myapp-config
 data:
-  MYSQL_HOST: "db-svc"
+  MYSQL_HOST: "mydb-svc"
   MYSQL_DB: "frodo"
   REDIS_HOST: "redis-svc"
   REDIS_PORT: "6379"
