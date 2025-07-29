@@ -10,7 +10,7 @@ redis:
 
 app:
   repository: public.ecr.aws/v3g6g4v7/chaeeun0311-lab2
-  tag: version-gohome
+  tag: first-commit
   replicas: 1
 
 nginx:
