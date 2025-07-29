@@ -14,8 +14,8 @@ app:
   replicas: 1
 
 nginx:
-  repository: nginx
-  tag: latest
+  repository: public.ecr.aws/v3g6g4v7/chaeeun0311-lab2
+  tag: nginx-v1
   replicas: 1
 
 
