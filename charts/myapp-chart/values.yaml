@@ -10,7 +10,7 @@ redis:
 
 app:
   repository: public.ecr.aws/v3g6g4v7/chaeeun0311-lab2
-  tag: teacher-commit
+  tag: Merge-branch-main-of-githubcomchaeeun0311myapp
   replicas: 1
 
 nginx:
